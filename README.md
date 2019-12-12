@@ -6,7 +6,7 @@ Hachage : `SHA-384`
 
 Le gestionnaire utilise la sérialisation pour sauvegarder les identifiants sur le disque.
 
-###Attention ! Il ne s'agit pas d'un programme suffisamment robuste pour être utilisé réellement !
+### Attention ! Il ne s'agit pas d'un programme suffisamment robuste pour être utilisé réellement !
 
 # Java ID manager
 
@@ -16,5 +16,5 @@ Hash: `SHA-384`
 
 The manager uses serialization to save the identifiers on the disk.
 
-####Caution! It is not a program robust enough to be actually used!
+#### Caution! It is not a program robust enough to be actually used!
 
